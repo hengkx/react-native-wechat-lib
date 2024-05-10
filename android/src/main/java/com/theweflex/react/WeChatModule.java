@@ -133,8 +133,8 @@ public class WeChatModule extends ReactContextBaseJavaModule implements IWXAPIEv
     }
 
     @Override
-    public void onCatalystInstanceDestroy() {
-        super.onCatalystInstanceDestroy();
+    public void invalidate() {
+        super.invalidate();
         if (api != null) {
             api = null;
         }

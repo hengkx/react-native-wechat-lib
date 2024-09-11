@@ -111,7 +111,7 @@ public class WeChatModule extends ReactContextBaseJavaModule implements IWXAPIEv
 
     @Override
     public String getName() {
-        return "RCTWeChat";
+        return "WeChat";
     }
 
     /**

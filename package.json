@@ -1,6 +1,6 @@
 {
   "name": "@hengkx/react-native-wechat",
-  "version": "1.1.26",
+  "version": "1.1.27",
   "description": "react-native library for wechat app. 支持分享和拉起小程序。",
   "main": "index.js",
   "scripts": {

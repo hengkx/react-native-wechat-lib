@@ -1,4 +1,14 @@
 重要!
+SDK2.0.4
+1.增加privacy manifest文件
+2.修复跳微信时可能卡顿的问题
+
+SDK2.0.2
+1. 优化XCFramework打包方式
+
+SDK2.0.1
+1. SDK支持XCFramework
+
 SDK2.0.0
 1. 分享能力支持内容防篡改校验
 

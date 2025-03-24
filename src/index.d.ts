@@ -8,7 +8,7 @@ enum WXScene {
   WXSceneSpecifiedSession = 3 /**< 指定联系人  */,
 }
 
-declare module '@hengkx/react-native-wechat-lib' {
+declare module '@hengkx/react-native-wechat' {
   export function registerApp(
     appId: string,
     universalLink?: string
